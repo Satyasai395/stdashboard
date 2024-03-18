@@ -1,0 +1,8 @@
+.Maindash{
+    display: flexbox;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 30px;
+    padding: 4rem;
+    /* background-color: blue; */
+}
